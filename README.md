@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashuchoudharystd&label=Profile%20views&color=0e75b6&style=flat" alt="ashuchoudharystd" /> </p>
 
-- 🌱 I’m currently learning **Python,C++,C,Java,JavaScript**
+- 🌱 I’m currently learning **Java SpringBoot**
 
 - 📫 How to reach me **ashuc0087@gmail.com**
 
