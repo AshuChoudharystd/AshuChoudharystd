@@ -118,7 +118,7 @@ fun_fact: I debug with console.log and I'm not ashamed! 😄
 <h2 align="center">🤝 Let's Connect!</h2>
 
 <p align="center">
-  <a href="linkedin.com/in/ashu-choudhary-974ab7274" target="_blank">
+  <a href="https://www.linkedin.com/in/ashu-choudhary-974ab7274" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
